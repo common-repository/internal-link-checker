@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Internal Link Check\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-09 01:26+0100\n"
+"PO-Revision-Date: 2011-12-09 01:26+0100\n"
+"Last-Translator: Franz Josef Kaiser <franzjosef@unserkaiser.at>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_n_noop:1,2;_nx:1,2;_nx_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin_table.php:163
+msgid "No links found."
+msgstr ""
+
+#: ../admin_table.php:197
+msgid "ID"
+msgstr ""
+
+#: ../admin_table.php:198
+msgid "Title"
+msgstr ""
+
+#: ../admin_table.php:199
+msgid "Date"
+msgstr ""
+
+#: ../admin_table.php:268
+msgid "Edit:"
+msgstr ""
+
+#: ../admin_table.php:274
+#: ../internal-links.php:314
+msgid "No title set"
+msgstr ""
+
+#: ../internal-links.php:270
+msgid "Internal Links"
+msgstr ""
+
+#: ../internal-links.php:305
+msgid "No posts are linking to this post."
+msgstr ""
+
+#: ../internal-links.php:422
+#, php-format
+msgid "The Update from %1$s to %2$s brings you the following new features, bug fixes and additions."
+msgstr ""
+
+#: ../internal-links.php:429
+#, php-format
+msgid "You can also check the nightly builds of %1$sour development repository%2$s on GitHub. If you got ideas, feature request or want to help with pull requests, please feel free to do so on GitHub.%3$s"
+msgstr ""
+
